@@ -2,7 +2,7 @@
 
 # QRCodeGenerator
 
-Can be used at qrcodes.rf.gd 
+Can be used at https://qrcodes.rf.gd 
 
 Git Repo for a QR code generator website.
 
