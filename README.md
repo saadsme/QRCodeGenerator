@@ -1,4 +1,4 @@
-![Screenshot]([http://url/to/img.png](https://ibb.co/bWcVBCR))
+![Screenshot](https://ibb.co/bWcVBCR)
 
 # QRCodeGenerator
 
