@@ -1,4 +1,4 @@
-![Screenshot](https://ibb.co/bWcVBCR)
+[![Screen-Shot-2022-10-02-at-12-57-08-PM.png](https://i.postimg.cc/dtrfpdwc/Screen-Shot-2022-10-02-at-12-57-08-PM.png)]
 
 # QRCodeGenerator
 
