@@ -2,6 +2,8 @@
 
 # QRCodeGenerator
 
+Can be used at qrcodes.rf.gd 
+
 Git Repo for a QR code generator website.
 
 Current Functionality:
